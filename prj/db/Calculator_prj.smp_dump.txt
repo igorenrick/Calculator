@@ -1,0 +1,7 @@
+
+State Machine - |Calculator|Controller:ctrl|state
+Name state.MULTIPLY state.SUBTRACT state.ADD state.WAIT 
+state.WAIT 0 0 0 0 
+state.ADD 0 0 1 1 
+state.SUBTRACT 0 1 0 1 
+state.MULTIPLY 1 0 0 1 

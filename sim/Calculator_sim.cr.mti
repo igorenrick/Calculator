@@ -1,0 +1,29 @@
+C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/Controller.v {1 {vlog -work work C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/sim/Calculator_tb.v {1 {vlog -work work C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/sim/Calculator_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Calculator_tb
+
+Top level modules:
+	Calculator_tb
+
+} {} {}} C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/Calculator.v {1 {vlog -work work C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/Calculator.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Calculator
+
+Top level modules:
+	Calculator
+
+} {} {}} C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/ALU.v {1 {vlog -work work C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

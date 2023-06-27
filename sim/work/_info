@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vALU
+Z1 IMFMl78k1VQ@3c?>4nZ=T93
+Z2 VX5EmIA>lmB;Hb4aJjT0B<1
+Z3 dC:\Users\bravura_user\Desktop\VHDL_18250348\Calculator\sim
+Z4 w1687400979
+Z5 8C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/ALU.v
+Z6 FC:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/ALU.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@a@l@u
+Z10 !s100 a5kKCXToP1:zzhjNNo>jN0
+Z11 !s108 1687401165.708000
+Z12 !s107 C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/ALU.v|
+Z13 !s90 -reportprogress|300|-work|work|C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCalculator
+Z14 IVMMmSPVGeETRMGz[Z<?gi3
+Z15 VF[]f@kj?El8jlQO^OjOni1
+R3
+Z16 w1687400927
+Z17 8C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/Calculator.v
+Z18 FC:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/Calculator.v
+L0 1
+R7
+r1
+31
+R8
+Z19 n@calculator
+!i10b 1
+Z20 !s100 8fn<F]5f7Wll]`0h>:KVK1
+!s85 0
+Z21 !s108 1687401165.786000
+Z22 !s107 C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/Calculator.v|
+Z23 !s90 -reportprogress|300|-work|work|C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/Calculator.v|
+!s101 -O0
+vCalculator_tb
+Z24 !s100 Ai3X0>AfUIlKM^zfO4B6@1
+Z25 I:J<PidB]e?n2<]QDjzPTm2
+Z26 V1K@]XFk[BAoD[h1n@Cm^?0
+R3
+Z27 w1687401120
+Z28 8C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/sim/Calculator_tb.v
+Z29 FC:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/sim/Calculator_tb.v
+L0 1
+R7
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/sim/Calculator_tb.v|
+R8
+Z31 n@calculator_tb
+Z32 !s108 1687401165.643000
+Z33 !s107 C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/sim/Calculator_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vController
+!i10b 1
+!s100 NaJ4SbRiTZ2NP=Zi:W9Il2
+I@<GENZ^[R1fAFGdzYYbd@1
+VWihnm>PoZOG[ZK@G17AzZ3
+R3
+w1687400958
+8C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/Controller.v
+FC:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/Controller.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1687401165.865000
+!s107 C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/Controller.v|
+!s90 -reportprogress|300|-work|work|C:/Users/bravura_user/Desktop/VHDL_18250348/Calculator/src/Controller.v|
+!s101 -O0
+R8
+n@controller
